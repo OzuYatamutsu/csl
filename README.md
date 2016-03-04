@@ -163,7 +163,6 @@ Clicks on a jQuery selector.
 click jquery[.my-button-class]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
 
 ### `wait`
 
