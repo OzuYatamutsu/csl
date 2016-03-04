@@ -19,6 +19,14 @@ goto <url>
 ```
 Navigates to a URL. By default, waits for `$(document).ready()` before moving on to the next statement, unless `wait` is specified immediately afterwards.
 ### `set`
+```
+set <name | jquery[...]> to <val | jquery[...]>
+```
+Sets a variable name or the value of a jQuery selector to a string value or the value of another jQuery selector.
 ### `click`
+```
+click jquery[...]
+```
+Clicks on a 
 ### `wait`
 ### `return`
